@@ -3,4 +3,4 @@ A shell script that takes a directory (potentially the root of the filesystem) a
 
 By default, when encountering a symbolic link to a directory, the script should not follow it (i.e., it should not recursively analyze the referenced directory). However, if the script is executed with the --follow-symlinks flag, it should continue the recursive analysis into the referenced directory.
 
-      Usage: ./script.sh [--follow-symlinks] <directory>
+      Usage: ./proiect.sh [--follow-symlinks] <directory>
