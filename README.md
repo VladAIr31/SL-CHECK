@@ -1,6 +1,6 @@
 # SL-CHECK: Symbolic Link Checker
 
-**SL-CHECK** is a powerful and flexible shell script designed to recursively scan a directory tree and identify broken symbolic links. It also includes a feature to detect circular references (cycles) when following symbolic links to directories. This tool is invaluable for system administrators and developers who need to maintain the integrity of their filesystems.
+**SL-CHECK** is a  shell script designed to recursively scan a directory tree and identify broken symbolic links. It also includes a feature to detect circular references (cycles) when following symbolic links to directories..
 
 ***
 
